@@ -43,6 +43,9 @@ https://github.com/xooxpeak/TravelPlan_Project/assets/136714432/e996df88-95c8-40
 <br>
 
 # 사용 기술
+- CSS/HTML/JS
+- AJAX, jQuery
+- Bootstrap
 - Spring Framework
 - MyBatis
 - Oracle
